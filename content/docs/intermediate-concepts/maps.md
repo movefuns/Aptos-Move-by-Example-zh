@@ -1,3 +1,8 @@
+---
+title: Map
+weight: 32
+---
+
 # Map
 
 **`0x1::simple_map`**
