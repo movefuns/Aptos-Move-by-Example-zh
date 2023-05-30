@@ -1,2 +1,6 @@
+---
+bookCollapseSection: true
+---
+
 # Intermediate Concepts
 

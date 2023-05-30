@@ -1,3 +1,7 @@
+---
+bookCollapseSection: true
+---
+
 # 为什么 Move 安全
 
 > Move 语言的属性使其成为编写智能合约的更安全的语言。
