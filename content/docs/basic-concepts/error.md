@@ -1,3 +1,8 @@
+---
+title: 错误
+weight: 21
+---
+
 # 错误
 
 可以通过调用 `assert` 和 `abort` 来抛出错误。

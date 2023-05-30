@@ -1,3 +1,8 @@
+---
+title: Move Prover
+weight: 4
+---
+
 # Move prover
 
 Move prover 是一种工具，用于验证用 Move 编程语言编写的智能合约的正确性。Move prover 通过数学证明代码的正确性，帮助确保这些智能合约的行为正确。

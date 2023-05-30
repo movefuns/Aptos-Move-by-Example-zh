@@ -1,3 +1,8 @@
+---
+title: 并行处理
+weight: 7
+---
+
 # 并行处理
 
 Solidity 和 Move 在处理和并发方面有不同的方法。

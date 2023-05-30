@@ -1,4 +1,6 @@
 ---
+title: 为什么 Move 安全
+weight: 3
 bookCollapseSection: true
 ---
 

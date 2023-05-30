@@ -1,3 +1,8 @@
+---
+title: Aptos Coin
+weight: 48
+---
+
 # Aptos Coin
 
 [Coin](https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/framework/aptos-framework/sources/coin.move) 为简单的、可替代的代币或硬币提供标准的、类型安全的框架。

@@ -1,8 +1,9 @@
 ---
-description: Non-Fungible Token
+title: Aptos 代币（NFT）
+weight: 49
 ---
 
-# Aptos代币(Nft)
+# Aptos 代币（NFT）
 
 > 非同质化代币
 

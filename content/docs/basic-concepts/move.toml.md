@@ -1,3 +1,8 @@
+---
+title: Move.toml
+weight: 13
+---
+
 # Move.toml
 
 `Move.toml` 文件是一个清单文件，其中包含包的名称、版本和依赖项等元数据。

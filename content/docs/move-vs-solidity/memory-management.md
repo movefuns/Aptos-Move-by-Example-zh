@@ -1,3 +1,8 @@
+---
+title: 内存管理
+weight: 9
+---
+
 # 内存管理
 
 Move 和 Solidity 中的内存管理完全不同。
