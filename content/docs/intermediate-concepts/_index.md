@@ -1,5 +1,5 @@
 ---
-title: 中等概念
+title: 中级概念
 weight: 25
 bookCollapseSection: true
 ---
